@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/osmol-lang/spec/main/brand/osmol-lockup.svg" width="420" alt="osmol"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/osmol-lang/spec/main/osmol-lockup.svg" width="420" alt="osmol"></p>
 
 # Osmol
 
