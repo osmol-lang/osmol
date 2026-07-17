@@ -1,0 +1,34 @@
+-- dinner.osmol — the Spec §8 mesh, now runnable
+twin maya {
+  hold eta(dinner) = 19:40 ±5m, decays 20:00
+  seek venue(dinner) by 18:00 else escalate
+  owe review(atlas) to raj by fri
+  bond raj { trust high }
+  express to raj: "Bring the good wine."
+
+  membrane {
+    eta(*) -> family: exact
+    eta(*) -> others: coarse(30m)
+    status(*) -> team: category
+  }
+  attention {
+    interrupts 2/day
+    quiet 22:00-07:00
+    threshold others 0.8
+  }
+}
+
+twin raj {
+  decide venue(dinner) among { verde, banh-mi-house } by 18:00
+  seek eta(dinner) by 19:00
+  seek status(atlas.review) by thu else sync
+  bond maya { trust high }
+
+  membrane {
+    venue(*) -> family: exact
+    decision(*) -> family: exact
+  }
+  attention {
+    interrupts 4/day
+  }
+}
