@@ -1,4 +1,9 @@
-<p align="center"><img src="https://raw.githubusercontent.com/osmol-lang/spec/main/osmol-lockup.svg" width="420" alt="osmol"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmol-lang/spec/main/osmol-lockup-dark.png">
+    <img src="https://raw.githubusercontent.com/osmol-lang/spec/main/osmol-lockup-light.png" width="420" alt="osmol">
+  </picture>
+</p>
 
 # Osmol
 

@@ -4,7 +4,7 @@ twin maya {
   seek venue(dinner) by 18:00 else escalate
   owe review(atlas) to raj by fri
   bond raj { trust high }
-  express to raj: "Bring the good wine."
+  express to raj: "Saw a fox on the way home and thought of you."
 
   membrane {
     eta(*) -> family: exact
